@@ -72,6 +72,14 @@
       "price": "1500$",
       "img": "http://lorempixel.com/g/700/400/"
     },
+      {
+      "id": 10,
+      "title": "Post 9",
+      "desc": "pc fascia media",
+      "brand": "asus",
+      "price": "1500$",
+      "img": "http://lorempixel.com/g/700/400/"
+    },
      ],
   "singleitems": [
     {
