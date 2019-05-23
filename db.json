@@ -107,13 +107,13 @@
         },
 {
     "brand:{
-        "nome":"nike"
+        "brand":"nike"
 },
    "brand:[{
-        "nome":"puma"
+        "brand":"puma"
 },
    "brand:{
-        "nome":"adidas"
+        "brand":"adidas"
 }]
         
 }
