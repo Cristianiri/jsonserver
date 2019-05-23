@@ -1,1 +1,22 @@
-# jsonserver
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "post 1",
+            "desc": "lorem ipsum..",
+            "brand": "nike",
+            "price": "12$",
+            "img": "http//lorempixel.com/g/700/400/"
+        }
+    ],
+    "singleitems": [
+        {
+            "id": 1,
+            "title": "post 1",
+            "desc": "lorem ipsumm dolor sit amet,consecetur adipiscing elit",
+            "brand": "nike",
+            "price": "12$",
+            "img": "http//lorempixel.com/g/700/400/"
+        }
+    ]
+}
