@@ -6,7 +6,7 @@
             "desc": "lorem ipsum..",
             "brand": "nike",
             "price": "12$",
-            "img": "http//lorempixel.com/g/700/400/"
+            "img": "https://lorempixel.com/g/700/400/"
         }
     ],
     "singleitems": [
@@ -16,7 +16,7 @@
             "desc": "lorem ipsumm dolor sit amet,consecetur adipiscing elit",
             "brand": "nike",
             "price": "12$",
-            "img": "http//lorempixel.com/g/700/400/"
+            "img": "https://lorempixel.com/g/700/400/"
         }
     ]
 }
