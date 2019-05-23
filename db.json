@@ -2,26 +2,26 @@
   "items": [
     {
       "id": 1,
-      "title": "Post 1",
-      "desc": "Lorem ipsum..",
-      "brand": "nike",
-      "price": "12$",
+      "title": "orologio da uomo",
+      "desc": "Caratteristiche: Cassa in acciaio inossidabile Cinturino in pelle Movimento automatico Calibro 12 Resistente ai graffi Sapphire Crystal Quadrante blu ",
+      "brand": "monaco",
+      "price": "3,800$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "desc": "Lorem ipsum ",
-      "brand": "gang",
-      "price": "13$",
+      "title": "orologio da uomo",
+      "desc": "Modello caw211r.fc6401 Nuovo di zecca. tag heuer Monaco Steve McQueen Special Edition orologio da uomo caw211r.fc6401 - Produttore con numeri - Steve McQueen Special Edition - ",
+      "brand": "monaco",
+      "price": "5848$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "desc": "Lorem ipsum ",
-      "brand": "iceice",
-      "price": "16$",
+      "title": "orologio da uomo",
+      "desc": "Orologio da uomo modello Lexington realizzato in acciaio bicolore argento/dorato con cronografo cassa rotonda e quadrante dotato di datario e numeri romani. ",
+      "brand": "Michael Kors Reid",
+      "price": "177,45$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
@@ -36,7 +36,7 @@
       "id": 5,
       "title": "Post 5",
       "desc": "Lorem ipsum..",
-      "brand": "iceice",
+      "brand": "iceic",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
@@ -167,22 +167,22 @@
   ],
   "brands": [
     {
-      "brand": "nike"
+      "brand": "Paul Hewitt"
     },
     {
-      "brand": "adidas"
+      "brand": "Daniel Wellington"
     },
     {
-      "brand": "iceice"
+      "brand": "Tommy Hilfiger "
     },
     {
-      "brand": "mike"
+      "brand": "Ferrari Pilota "
     },
     {
-      "brand": "daje"
+      "brand": "Michael Kors Reid"
     },
     {
-      "brand": "gang"
+      "brand": "monaco"
     }
   ]
 }
