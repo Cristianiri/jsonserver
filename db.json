@@ -2,7 +2,7 @@
   "items": [
     {
       "id": 1,
-      "title": "Post 1",
+      "title": "",
       "desc": "laptop",
       "brand": "acer",
       "price": "500$",
@@ -154,14 +154,7 @@
       "price": "100$",
       "img": "http://lorempixel.com/g/700/400/"
     },
-    {
-      "id": 10,
-      "title": "Post 10",
-      "desc": "desktop",
-      "brand": "apple",
-      "price": "1000$",
-      "img": "https://via.placeholder.com/700x400"
-    }
+  
   ],
   "herobanner": [
     {
