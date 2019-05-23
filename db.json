@@ -101,19 +101,19 @@
             "img": "https://lorempixel.com/g/700/400/"
         }
         ]
-     "brands":[{
+     "brands":[
+        {
         "nome":"gucci"
-    
         },
-{
+        {
     "brand:{
         "brand":"nike"
-},
+        },
    "brand:[{
         "brand":"puma"
-},
+        },
    "brand:{
         "brand":"adidas"
-}]
+        }]
         
 }
