@@ -100,6 +100,20 @@
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         }
-         
-    ]
+        ]
+     "brands":[{
+        "nome":"gucci"
+    
+        }],
+{
+    "brand:[{
+        "nome":"nike"
+}],
+   "brand:[{
+        "nome":"puma"
+}],
+   "brand:[{
+        "nome":"adidas"
+}]
+        
 }
