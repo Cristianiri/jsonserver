@@ -71,15 +71,8 @@
       "brand": "iceice",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 10,
-      "title": "Post 10",
-      "desc": "Lorem ipsum..",
-      "brand": "daje",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
     }
+   
   ],
   "singleitems": [
     {
@@ -153,14 +146,6 @@
       "brand": "iceice",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 10,
-      "title": "Post 10",
-      "desc": ".",
-      "brand": "daje",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
     }
   ],
   "herobanner": [
