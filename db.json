@@ -2,159 +2,166 @@
   "items": [
     {
       "id": 1,
-      "title": "",
-      "desc": "laptop",
-      "brand": "acer",
-      "price": "500$",
+      "title": "Post 1",
+      "desc": "Lorem ipsum..",
+      "brand": "nike",
+      "price": "12$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "desc": "computer fascia alta ",
-      "brand": "apple",
-      "price": "1300$",
+      "desc": "Lorem ipsum ",
+      "brand": "gang",
+      "price": "13$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "desc": "computer fascia alta ",
-      "brand": "hp",
-      "price": "1000$",
+      "desc": "Lorem ipsum ",
+      "brand": "iceice",
+      "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 4,
       "title": "Post 4",
-      "desc": "computer fascia alta ",
-      "brand": "omen",
-      "price": "2000$",
+      "desc": "Lorem ipsum..",
+      "brand": "mike",
+      "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 5,
       "title": "Post 5",
-      "desc": "computer fascia bassa",
-      "brand": "hp",
-      "price": "600$",
+      "desc": "Lorem ipsum..",
+      "brand": "iceice",
+      "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 6,
       "title": "Post 6",
-      "desc": "computer fascia alta ",
-      "brand": "samsung",
-      "price": "1600$",
+      "desc": "Lorem ipsum..",
+      "brand": "iceice",
+      "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 7,
       "title": "Post 7",
-      "desc": "computer fascia media",
-      "brand": "acer",
-      "price": "400$",
+      "desc": "Lorem ipsum..",
+      "brand": "gang",
+      "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 8,
       "title": "Post 8",
-      "desc": "laptop fascia alta",
-      "brand": "aple",
-      "price": "2000$",
+      "desc": "Lorem ipsum..",
+      "brand": "iceice",
+      "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 9,
       "title": "Post 9",
-      "desc": "pc fascia media",
-      "brand": "asus",
-      "price": "1500$",
+      "desc": "Lorem ipsum..",
+      "brand": "iceice",
+      "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
-      {
+    {
       "id": 10,
-      "title": "Post 9",
-      "desc": "pc fascia media",
-      "brand": "asus",
-      "price": "1500$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-     ],
+      "title": "Post 10",
+      "desc": "Lorem ipsum..",
+      "brand": "daje",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    }
+  ],
   "singleitems": [
     {
       "id": 1,
       "title": "Post 1",
-      "desc": "tablet",
-      "brand": "apple",
-      "price": "1000$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "nike",
+      "price": "12$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "desc": "telefono",
-      "brand": "apple",
-      "price": "1000$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "gang",
+      "price": "13$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "desc": "orologio",
-      "brand": "apple",
-      "price": "1000$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 4,
       "title": "Post 4",
-      "desc": "pc fascia alta",
-      "brand": "samsung",
-      "price": "1600$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "mike",
+      "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 5,
       "title": "Post 5",
-      "desc": "ipod",
-      "brand": "apple",
-      "price": "160$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 6,
       "title": "Post 6",
-      "desc": "tablet",
-      "brand": "apple",
-      "price": "1600$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 7,
       "title": "Post 7",
-      "desc": "tablet",
-      "brand": "samsung",
-      "price": "600$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "gang",
+      "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 8,
       "title": "Post 8",
-      "desc": "cuffie",
-      "brand": "apple",
-      "price": "200$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 9,
       "title": "Post 9",
-      "desc": "apple pen",
-      "brand": "apple",
-      "price": "100$",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
-  
+    {
+      "id": 10,
+      "title": "Post 10",
+      "desc": ".",
+      "brand": "daje",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    }
   ],
   "herobanner": [
     {
@@ -175,22 +182,22 @@
   ],
   "brands": [
     {
-      "brand": "apple"
+      "brand": "nike"
     },
     {
-      "brand": "samsung"
+      "brand": "adidas"
     },
     {
-      "brand": "hp"
+      "brand": "iceice"
     },
     {
-      "brand": "acer"
+      "brand": "mike"
     },
     {
-      "brand": "asus"
+      "brand": "daje"
     },
     {
-      "brand": "omen"
+      "brand": "gang"
     }
   ]
 }
