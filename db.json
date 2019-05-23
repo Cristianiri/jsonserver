@@ -104,15 +104,15 @@
      "brands":[{
         "nome":"gucci"
     
-        }],
+        },
 {
-    "brand:[{
+    "brand:{
         "nome":"nike"
-}],
+},
    "brand:[{
         "nome":"puma"
-}],
-   "brand:[{
+},
+   "brand:{
         "nome":"adidas"
 }]
         
